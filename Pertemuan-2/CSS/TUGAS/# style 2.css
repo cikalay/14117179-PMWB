@@ -1,0 +1,13 @@
+body{
+}
+.kotak{
+    background: green;
+    widht: 600px;
+    height: 300px;
+    margin: 0;
+}
+
+.gradient {
+    background: linear-gradient(green, blue);
+    
+}
